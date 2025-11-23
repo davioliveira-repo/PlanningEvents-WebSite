@@ -1,4 +1,4 @@
-# PlanningEvents-WebSite
+# SysEvent-WebSite
  WebSite desenvolvido para o Agendamento de Eventos
 
 Grupo:
